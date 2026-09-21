@@ -1,6 +1,23 @@
 ---
 ---
 
+@inproceedings{bie2026osprey,
+  title={Osprey: Target-agnostic Pre-training Makes Stronger Drafters in Speculative Decoding},
+  author={Bie, Fengxiang* and Jian, Yuqing* and Yu, Yifan and Zhou, Zhongzhu and Shao, Zelei and Athiwaratkun, Ben and Song, Shuaiwen Leon and Xu, Chenfeng and Wu, Xiaoxia and Zhang, Tianyi},
+  booktitle={Conference on Empirical Methods in Natural Language Processing},
+  year={2026},
+  url={https://arxiv.org/abs/2609.09338},
+  html={https://arxiv.org/abs/2609.09338},
+  code={https://github.com/LeanModels/Osprey},
+  abstract={Speculative decoding is critical for accelerating LLM inference, but drafters are typically trained for a narrow distribution and a single target model, causing acceptance rates to collapse under workload shifts. Osprey bootstraps drafters from off-the-shelf pretrained small language models, treating broad pretraining as a reusable, target-agnostic asset and reducing per-target work to lightweight adaptation. It prunes to a shallow backbone, restores language-modeling capability through target-agnostic next-token pretraining, and adapts to each target through vocabulary alignment, zero-initialized QKV expansion, and output-distribution distillation. A single pretrained Osprey backbone transfers across targets and improves mean acceptance length by 16.1\% for Qwen3-8B, 21.2\% for Llama-3.3-70B-Instruct, and 22.7\% for MiniMax-M2.5.},
+  preview={osprey.png},
+  google_scholar_id={UeHWp8X0CEIC},
+  selected={true},
+  annotation={* Equal contribution},
+  award={Accepted to the EMNLP 2026 Main Conference (2,719 of 17,669 submissions; 15.4 percent acceptance rate)},
+  award_name={Main Conference}
+}
+
 @inproceedings{yu2026introspective,
   title={Introspective Diffusion Language Models},
   author={Yu, Yifan* and Jian, Yuqing* and Wang, Junxiong and Zhou, Zhongzhu
