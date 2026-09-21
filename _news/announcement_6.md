@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined <a href="https://openai.com/">OpenAI</a> as a Member of Technical Staff Intern, working on ChatGPT
+Joined <a href="https://openai.com/">OpenAI</a> as a Member of Technical Staff Intern — “The first batch of interns in OpenAI’s history.”
