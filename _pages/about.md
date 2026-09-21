@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi! I’m **Yuqing Jian (简宇卿)**, a researcher at [Together AI](https://www.together.ai/), working on efficient and scalable systems for large language models.
+Hi! I’m **Yuqing Jian (简宇卿)**, a researcher at [Together AI](https://www.together.ai/), working on efficient and scalable systems for large language models under the supervision of Prof. [Chenfeng Xu](https://www.chenfengx.com/).
 
 Previously, I was a Member of Technical Staff Intern at [OpenAI](https://openai.com/), where I worked on ChatGPT.
 
