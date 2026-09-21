@@ -9,8 +9,6 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-Publication details will be added soon.
-
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
