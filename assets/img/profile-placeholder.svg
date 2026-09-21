@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" role="img" aria-labelledby="title description">
-  <title id="title">Yuqing Jian profile photo placeholder</title>
-  <desc id="description">A neutral placeholder displaying the initials YJ.</desc>
-  <rect width="600" height="720" rx="24" fill="#f1f3f5"/>
-  <circle cx="300" cy="265" r="118" fill="#ced4da"/>
-  <path d="M95 650c18-146 97-228 205-228s187 82 205 228" fill="#ced4da"/>
-  <text x="300" y="690" text-anchor="middle" fill="#6c757d" font-family="Arial, sans-serif" font-size="44" font-weight="600">YJ</text>
-</svg>

@@ -6,7 +6,7 @@ subtitle: Researcher at Together AI
 
 profile:
   align: right
-  image: profile-placeholder.svg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Yuqing Jian · 简宇卿</p>
