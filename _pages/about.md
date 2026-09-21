@@ -19,4 +19,6 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi! I’m **Yuqing Jian (简宇卿)**, a researcher at [Together AI](https://www.together.ai/), working on efficient and scalable systems for large language models.
 
+Previously, I was a Member of Technical Staff Intern at [OpenAI](https://openai.com/), where I worked on ChatGPT.
+
 My research interests lie in diffusion language models, efficient inference, and model reasoning. I am a co-first author of [I-DLM](https://introspective-diffusion.github.io/), the first diffusion language model to match the quality of its same-scale autoregressive counterpart while delivering substantially higher serving throughput.
