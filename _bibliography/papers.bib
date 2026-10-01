@@ -1,6 +1,21 @@
 ---
 ---
 
+@misc{xu2026qatfactory,
+  title={{QATFactory}: A Versatile, Deployment-Aligned Framework for Quantization-aware Training and Distillation of {LLMs}},
+  author={Xu, Weili* and Li, Jisen* and Jian, Yuqing* and Li, Chenxi and Sha, Zhizhou and Yu, Yifan and Wu, Qingyang and Xu, Chenfeng and Zhou, Zhongzhu and Zhang, Tianyi and Athiwaratkun, Ben},
+  year={2026},
+  eprint={2609.39223},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  html={https://arxiv.org/abs/2609.39223},
+  code={https://github.com/QATFactory/QATFactory},
+  abstract={QATFactory is an open-source framework for deployment-aligned quantization-aware distillation and reinforcement learning. It simulates deployment-time quantization while performing matrix multiplications in BF16, so models can adapt to quantization noise without training hardware that natively supports the target format. The framework supports NVFP4, MXFP4, and llama.cpp's Q4\_K, dense and mixture-of-experts models, and both full-parameter and LoRA training, and exports checkpoints directly to vLLM and llama.cpp. Across models from 8B to 230B parameters, quantization-aware distillation consistently improves deployed-model quality over strong post-training quantization baselines.},
+  preview={qatfactory.png},
+  selected={true},
+  annotation={* Equal contribution}
+}
+
 @inproceedings{bie2026osprey,
   title={Osprey: Target-agnostic Pre-training Makes Stronger Drafters in Speculative Decoding},
   author={Bie, Fengxiang* and Jian, Yuqing* and Yu, Yifan and Zhou, Zhongzhu and Shao, Zelei and Athiwaratkun, Ben and Song, Shuaiwen Leon and Xu, Chenfeng and Wu, Xiaoxia and Zhang, Tianyi},
